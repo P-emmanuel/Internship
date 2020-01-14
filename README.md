@@ -1,4 +1,4 @@
-# Medneo_Internship
+# Internship
 ## There are three types of files:
 
 ### 1.	Deep learning on 3D lung CT Scans
